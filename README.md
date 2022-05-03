@@ -1,0 +1,1 @@
+Esse projeto possui intuito pedagógico e tem como função o desenvolvimento de um software capaz de automatizar o processo de controle em uma academia.
